@@ -1,4 +1,4 @@
-package BasicSyntax.variables;
+package BasicSyntax;
 
 class Main{
     
