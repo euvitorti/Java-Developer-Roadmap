@@ -1,63 +1,63 @@
-# Java Developer Roadmap Repository
+# Java Developer Roadmap
 
-Este repositório contém uma organização estruturada para aprender e se aprofundar no desenvolvimento com Java, seguindo o roadmap disponibilizado em [roadmap.sh/java](https://roadmap.sh/java). A estrutura está dividida em tópicos principais, cada um com exemplos de código, explicações comentadas, e um projeto final que integra os conceitos aprendidos.
+This repository provides a structured organization for learning and delving deeper into Java development, following the roadmap available at [roadmap.sh/java](https://roadmap.sh/java). The structure is divided into main topics, each with code examples, commented explanations, and a final project that integrates the concepts learned.
 
-## Estrutura do Repositório
+## Repository Structure
 
-- **1. Fundamentos de Java**
-  - Estrutura básica de um programa Java
-  - Sintaxe, variáveis, e tipos de dados
-  - Controle de fluxo (if/else, loops)
-  - Exemplos comentados
+- **1. Java Fundamentals**
+  - Basic structure of a Java program
+  - Syntax, variables, and data types
+  - Flow control (if/else, loops)
+  - Commented examples
 
-- **2. Programação Orientada a Objetos (OOP)**
-  - Classes e objetos
-  - Herança, polimorfismo, encapsulamento
-  - Interfaces e classes abstratas
-  - Exemplos comentados
+- **2. Object-Oriented Programming (OOP)**
+  - Classes and objects
+  - Inheritance, polymorphism, encapsulation
+  - Interfaces and abstract classes
+  - Commented examples
 
-- **3. Estruturas de Dados e Coleções**
-  - Arrays, listas, mapas, conjuntos
-  - Iteradores e streams
-  - Exemplos comentados
+- **3. Data Structures and Collections**
+  - Arrays, lists, maps, sets
+  - Iterators and streams
+  - Commented examples
 
-- **4. Manipulação de Arquivos e I/O**
-  - Leitura e escrita de arquivos
-  - Streams e buffers
-  - Exemplos comentados
+- **4. File Handling and I/O**
+  - Reading and writing files
+  - Streams and buffers
+  - Commented examples
 
-- **5. Conexão com Bancos de Dados**
-  - JDBC e ORM (Hibernate, JPA)
-  - Consultas SQL básicas
-  - Exemplos comentados
+- **5. Database Connectivity**
+  - JDBC and ORM (Hibernate, JPA)
+  - Basic SQL queries
+  - Commented examples
 
-- **6. Desenvolvimento Web com Java**
-  - Servlets e JSP
+- **6. Web Development with Java**
+  - Servlets and JSP
   - Frameworks (Spring Boot)
-  - APIs REST
-  - Exemplos comentados
+  - REST APIs
+  - Commented examples
 
-- **7. Ferramentas e Práticas**
-  - Maven e Gradle
-  - Testes com JUnit
-  - Logs com Log4j ou SLF4J
-  - Exemplos comentados
+- **7. Tools and Best Practices**
+  - Maven and Gradle
+  - Testing with JUnit
+  - Logging with Log4j or SLF4J
+  - Commented examples
 
-## Projeto Final
+## Final Project
 
-Um projeto prático integrando os tópicos acima, como um sistema de gerenciamento de tarefas. O projeto incluirá:
-- Interface de usuário simples
-- Backend com Spring Boot
-- Banco de dados relacional
-- Testes automatizados
+A practical project integrating the topics above, such as a task management system. The project will include:
+- A simple user interface
+- Backend with Spring Boot
+- Relational database
+- Automated tests
 
-## Como Usar Este Repositório
+## How to Use This Repository
 
-1. Navegue pelas pastas dos tópicos.
-2. Leia os exemplos e comentários em cada arquivo.
-3. Experimente os códigos e modifique para reforçar o aprendizado.
-4. Contribua com melhorias ou novas ideias para o projeto final!
+1. Browse through the topic folders.
+2. Read the examples and comments in each file.
+3. Experiment with the code and modify it to reinforce your learning.
+4. Contribute with improvements or new ideas for the final project!
 
 ---
 
-Sinta-se à vontade para explorar e compartilhar sua jornada de aprendizado em Java!
+Feel free to explore and share your Java learning journey!
