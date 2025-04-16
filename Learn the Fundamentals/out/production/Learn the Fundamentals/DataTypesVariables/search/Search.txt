@@ -1,0 +1,6 @@
+1. Java enums https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+2. What are Data Types & Variables? https://www.guru99.com/java-variables.html
+3. Java Variables https://www.javatpoint.com/java-variables
+4. Learn more about Data types and Variables https://www.javatpoint.com/java-data-types
+5. Java Records https://www.baeldung.com/java-record-keyword
+6. Creating Primitive Type Variables in Your Programs https://dev.java/learn/language-basics/primitive-types/
